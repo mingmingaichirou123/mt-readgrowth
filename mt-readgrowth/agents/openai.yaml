@@ -1,0 +1,4 @@
+interface:
+  display_name: "MT-readgrowth"
+  short_description: "连接微信读书、本地全文、用户资料、个性化讨论与可追溯阅读成长"
+  default_prompt: "使用 $mt-readgrowth 处理我的阅读请求，在不读取未授权个人内容的前提下，按需完成导入、同步、讨论、“替我读”、推荐或用户资料复核。"
